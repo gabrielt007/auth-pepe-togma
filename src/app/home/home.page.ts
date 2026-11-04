@@ -10,7 +10,7 @@ import {
   IonButton
 } from '@ionic/angular/standalone';
 
-import { AuthService } from '../services/auth.service';
+import { AuthService } from '../services/auth';
 
 @Component({
   selector: 'app-home',
