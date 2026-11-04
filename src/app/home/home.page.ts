@@ -8,7 +8,7 @@ import {
   IonTitle,
   IonContent,
   IonButton
-} from '@ionic/angular/standalone';
+} from '@ionic/angular';
 
 import { AuthService } from '../services/auth';
 

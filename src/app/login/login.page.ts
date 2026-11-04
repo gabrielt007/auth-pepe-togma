@@ -12,7 +12,7 @@ import {
   IonInput,
   IonButton,
   IonText
-} from '@ionic/angular/standalone';
+} from '@ionic/angular';
 
 import { AuthService } from '../services/auth';
 
